@@ -6,7 +6,7 @@ SafeMines = '<:robux:1284784245734379551>'
 TileMines = '<:bombb:1284784210237980733>'
 SafeTowers = '<:starr:1284784911743582248>'
 TileTowers = '<:bombb:1284784210237980733>'
-BotToken = 'MTA3NTc0OTc5MjQ4NDk2MjM1NA.GuV5yy.SHT3zcY1nzmTJ2ZweA0vgYfee3tusXYj868PzI'  # Replace with your actual bot token
+BotToken = 'MTA3NTc0OTc5MjQ4NDk2MjM1NA.G7u39C.QoySmAtO_yW7E_lfZ93PqbFMaqEsyy1Buan17M'  # Replace with your actual bot token
 AllowedChannelID = 1284808230769266748  # Replace with the actual channel ID where commands can be used
 
 # StartUp
